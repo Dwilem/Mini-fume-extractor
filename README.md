@@ -12,7 +12,7 @@ This fume extractor uses commonly found computer fan mounted in laser cut wooden
 
 * By changing "HoldDepth" sketches are changed as well. If you want you can regenarate DFX files for laser cutting too.
 
-* Effective range is about 15cm
+* Effective range of suction is about 15cm
 
 # Gallery
 <div style="display:grid; grid-template-columns: repeat(2, 300px); gap:20px;">
