@@ -14,6 +14,14 @@ This fume extractor uses commonly found computer fan mounted in laser cut wooden
 
 * Effective range is about 15cm
 
+# Gallery
+<div style="display:grid; grid-template-columns: repeat(2, 300px); gap:20px;">
+  <img src="Images/Live1.jpg" height="350">
+  <img src="Images/Live2.jpg" height="350">
+  <img src="Images/Rendered1.png" width="500">
+  <img src="Images/Rendered2.png" width="500">
+</div>
+
 # Wiring
 Here is simple wiring circuit I created, when wiring this:
 
@@ -23,13 +31,7 @@ Here is simple wiring circuit I created, when wiring this:
 ![Wiring.png](Images/BMO.png)
 
 
-# Gallery
-<div style="display:grid; grid-template-columns: repeat(2, 300px); gap:20px;">
-  <img src="Images/Live1.jpg" height="350">
-  <img src="Images/Live2.jpg" height="350">
-  <img src="Images/Rendered1.png" width="500">
-  <img src="Images/Rendered2.png" width="500">
-</div>
+
 
 
 
